@@ -20,6 +20,6 @@ $ pip install Pillow
 
 ### Screenshots
 <div>
-  <img style="float: left; margin-right: 10px" src="template.jpg" width="200">
-  <img style="float: left" src="Screenshots/SS1.png" width="200">
+  <img style="float: left; margin-right: 10px" src="template.jpg" width="300">
+  <img style="float: left" src="Screenshots/SS1.png" width="300">
 </div>
